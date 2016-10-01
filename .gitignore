@@ -1,0 +1,15 @@
+# global
+wp
+.DS_Store
+*.ipr
+*.iml
+.idea
+.classpath
+.project
+.settings
+.sass-cache
+
+# Custom
+deploy.json
+node_modules
+build
